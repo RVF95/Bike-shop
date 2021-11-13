@@ -1,1 +1,2 @@
-Proyecto de biciletas grupal para la academia Guayerd
+#Proyecto de biciletas 
+Realizado por: Florencia A., Alicia, Janette, Florencia v.,Mara, Romina y Johana
